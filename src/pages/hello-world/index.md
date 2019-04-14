@@ -1,11 +1,11 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2019-04-14T20:30:00.000Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is my first post on my new blog! How exciting!
 
-I'm sure I'll write a lot more interesting things in the future.
+Gatsby is really easy to learn and fun to use.
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
